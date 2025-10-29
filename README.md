@@ -178,5 +178,4 @@ Yes. Wireless ADB/Appium over Wi-Fi is supported for cable-free device racks and
 </p>
   
 
-##Directory Structure (must)
 
